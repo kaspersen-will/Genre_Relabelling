@@ -1,7 +1,0 @@
-Model,Val F1 macro,Val F1 weighted,Val ROC-AUC
-Gradient Boosting,0.3362,0.4401,0.8737
-MLP,0.2839,0.3877,0.8396
-Logistic Regression,0.2837,0.3834,0.8467
-KNN (tuned),0.2714,0.3467,0.7033
-Random Forest (tuned),0.2492,0.3702,0.8379
-Dummy,0.0073,0.0288,0.5
